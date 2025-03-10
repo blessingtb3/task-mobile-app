@@ -6,7 +6,7 @@ const DisplayImage = props => {
     // display the image only when there is no task
     if(props.taksStatus.length < 1){
         return (
-            <Image style={styles.image} source={require("../assets/tick.png")}/>
+            <Image style={styles.image} source={require("../assets/favicon.png")}/>
         );
     }else{
         return null;

@@ -89,3 +89,13 @@ It is very important to visualize a React Native application in terms of compone
 # Let’s now start with the development of To-do App:
 
 - Open the project folder in the text editor, and inside the src folder, create a components folder into which we will add all our components.
+
+# Summary of the Steps:
+
+1. Set-up an environment for the development of the application
+2. Install the Expo app on the mobile device to preview the application in real-time
+3. Visualize the application in terms of components and then maintain the project structure accordingly in the text editor
+4. Add all the components to the project
+5. Make sure each component works as expected
+6. Enjoy the result and feel free to tweak the design and functionality as you want
+   We have now created a fully functional mobile application using React Native that works and looks great! We hope you were able to follow all of the instructions easily and can sit back and bask in your accomplishment!

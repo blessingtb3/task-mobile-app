@@ -4,7 +4,7 @@ import { Stylesheet, View, Text } from "react-native";//Import React Native comp
 //Return Header text along with style
 const Header = props => {
     return (
-        <view style = {Stylesheet.header}></view>
+        <view style = {styles.header}></view>
     );
 };
 
